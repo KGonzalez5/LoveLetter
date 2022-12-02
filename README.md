@@ -1,2 +1,2 @@
 # LoveLetter
-a simple css button animatio linked to a song
+a simple css button animation linked to a song
